@@ -74,6 +74,7 @@ body {
     opacity:100%;
     animation:150ms ease-out 0s scaleLetter
 }
+
 .letter-grey {
     background-color:var(--blue-light);
     border:.1rem solid var(--blue-light)
