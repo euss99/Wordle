@@ -77,17 +77,17 @@ body {
 
 .letter-grey {
     background-color:var(--blue-light);
-    border:.1rem solid var(--blue-light)
+    border:.15rem solid var(--blue-light)
 }
 
 .letter-green {
     background-color:var(--green);
-    border:.1rem solid var(--green)
+    border:.15rem solid var(--green);
 }
 
 .letter-yellow {
     background-color:var(--yellow);
-    border:.1rem solid var(--yellow)
+    border:.15rem solid var(--yellow)
 }
 
 .message-container {
