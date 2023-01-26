@@ -96,7 +96,7 @@ const checkWord = {
             }
 
             if (letterRowIndex >= 6) {
-                messageText.textContent = "Perdiste, reinicia e intenta con otra palabra.";
+                messageText.textContent = `Perdiste, la palabra correcta era ${rightWord}.`;
                 restartBtn.disabled = false;
                 return;
             }
